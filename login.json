@@ -1,0 +1,18 @@
+{
+  "maintenance": false,
+  "message": "Mod Maintenance Break",
+  "keys": {
+    "Gayvcl": {
+      "status": "valid",
+      "expiry": "2077-01-14T00:00:00"
+    },
+    "15DKZBG": {
+      "status": "valid",
+      "expiry": "2030-01-05T00:00:00"
+    },
+    "SAMAN-AHMED": {
+      "status": "valid",
+      "expiry": "2030-01-18T00:00:00"
+    }
+  }
+}
